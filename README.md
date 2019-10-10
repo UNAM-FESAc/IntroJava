@@ -1,3 +1,4 @@
+
 # Course: Programming II
 
 *Por: GCCyC and Prof. Javier A. Orduz-Ducuara*
@@ -5,6 +6,9 @@
 This is a repository for OOP course is hold in FESAc. 
 
 <!---
+
+d6b1808dd7a13a80e90798e0ab1001fb4ec3234e
+
 ## Exercise for the begginners
 The student should read the following blogs:
 - [7 secrets...](https://www.codementor.io/codementorteam/7-secrets-to-staying-motivated-when-learning-to-code-a2dy7hqar) 
