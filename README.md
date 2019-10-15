@@ -4,6 +4,7 @@
 *Por: GCCyC and Prof. Javier A. Orduz-Ducuara*
 
 This is a repository for OOP course is hold in FESAc. 
+You download the PDF from [here](https://www.dropbox.com/s/cs3mtujdghvlkys/main.pdf?dl=0).
 
 <!---
 
