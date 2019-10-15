@@ -9,6 +9,8 @@ This is a repository for OOP course is hold in FESAc.
 
 d6b1808dd7a13a80e90798e0ab1001fb4ec3234e
 
+git@1f3b36368952:jaorduz/test1.git
+
 ## Exercise for the begginners
 The student should read the following blogs:
 - [7 secrets...](https://www.codementor.io/codementorteam/7-secrets-to-staying-motivated-when-learning-to-code-a2dy7hqar) 
