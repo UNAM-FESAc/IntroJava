@@ -1,11 +1,13 @@
+
 <!-- badges -->
 [license-badge]: https://img.shields.io/badge/Licencia-CC-orange
 [license]: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.es
 
 [![CC License][license-badge]][license]
 
+![Header.jpg](attachment:figs/Header.jpg)
 
-# Course: Programming II
+# Curso: Introducción a la programación con Java
 
 *Por: GCCyC and Prof. Javier A. Orduz-Ducuara*
 
