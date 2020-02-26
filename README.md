@@ -5,7 +5,9 @@
 
 [![CC License][license-badge]][license]
 
-![Header.jpg](attachment:figs/Header.jpg)
+![width='80%'](figs/Header.jpg)
+**GCCyC/FESAC-UNAM**. 
+
 
 # Curso: Introducción a la programación con Java
 
