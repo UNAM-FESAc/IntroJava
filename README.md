@@ -1,7 +1,14 @@
+<!-- badges -->
+[license-badge]: https://img.shields.io/badge/Licencia-CC-orange
+[license]: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.es
+
+[![CC License][license-badge]][license]
+
 
 # Course: Programming II
 
 *Por: GCCyC and Prof. Javier A. Orduz-Ducuara*
+
 
 This is a repository for OOP course is hold in FESAc. 
 You download the PDF from [here](https://www.dropbox.com/s/cs3mtujdghvlkys/main.pdf?dl=0).
